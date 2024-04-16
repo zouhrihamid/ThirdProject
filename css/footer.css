@@ -1,5 +1,6 @@
 .footer{
     background-color: #353535;
+    height: px;
     
 }
 
@@ -11,12 +12,12 @@
     font-size: 18px;
     line-height: 26.24px;
     color: #ffffff;
-    padding:5%;
-        
+    padding: 3% 0% 1% 5%;
+         
 }
 ul{
     padding-left: 5%;
-    padding-bottom: 10%;
+    padding-bottom: 1%;
 }
 li{
     padding-bottom:3%;
@@ -26,5 +27,6 @@ ul h3{
     color:#ffffff;
     font-size: 16px;
     font-weight: 500;
+    line-height: 18.75px;
 
 }

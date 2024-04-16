@@ -1,42 +1,44 @@
 .reserve{
-    background-color: #f3f2f2;
-    padding-bottom: 2%;
+  display: flex;
+  flex-direction: column;
+
+  background-color: #f6f6f6;
+   padding:5%;
 }
 .reserve h1 {
-    text-align: center;
-  color: #353535;
-    padding: 5%;
+  text-align: center;
+  font-size: 24px;
+
+  font-weight: 700;
 }
 
 .reserve p{
     text-align: center;
-    color: #353535;
-    padding: 0% 5% 5% 5%;
+    padding-top: 3%;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 300;
 }
 
-.explorer {
  
-  border: solid;
-  text-align: center;
+.explorer {
+ text-align: center;
   border-width: 2px;
   border-radius:25px;
   border-color: #d9d9d9;
-  margin: 0% 28% 5% 28%;
-  padding-top: 3% ;
-  padding-bottom: 3%;
   background: linear-gradient( to bottom,#FF79DA,  #9356DC );
-   cursor: pointer;
-}
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+  color: white;
+  padding: 1em;
+  width: 218px;
+  margin: auto;
+ } 
+
 .explorer:hover{
   opacity: 0.8;
-  }
+  } 
 
 
- .explorer a{
-    text-decoration: none;
-    color: white ;
-    font-size: 14px;
- }
+
 

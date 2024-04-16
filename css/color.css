@@ -1,12 +1,12 @@
-.first{
+.first-color{
     color: #9356DC ;
 }
 
-.second{
+.second-color{
 color: #FF79DA;
 }
 
-.tertiary{
+.tertiary-color{
  color:#99E2D0;
 }
 .black{
@@ -15,3 +15,5 @@ color: #FF79DA;
 .map_color{
     color:#353535;
 }
+
+
